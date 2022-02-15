@@ -2,4 +2,4 @@
 
 ## Screenshot:
 
-![Lorem Ipsum](screenshots/Lorem Ipsum.png)
+Lorem Ipsum.png
